@@ -1,4 +1,14 @@
 body {
   background-color: #011eff;
-  font-family:monospace;
+}
+
+h1 {
+  font-family: monospace;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: monospace;
+  font-size: 20px;
 }
